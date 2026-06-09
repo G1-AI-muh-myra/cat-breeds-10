@@ -1,102 +1,61 @@
-# Cat Breed Classification Using Deep Learning
+# Cat Breed Images Classification with Convolutional Neural Networks (CNN)
 
-A comparative analysis of ResNet50, DenseNet121 and MobileNetV3Small architectures for multi-class cat breed classification.-
+## Description
+This repository contains a comprehensive analysis of cat breed classification using various convolutional neural network (CNN) models. It is part of the project for the **ISB46703 - Principle of Artificial Intelligence** subject, focusing on dataset preparation, model performance evaluation, and improvement strategies. Detailed analysis of confusion matrices, training accuracy, and loss trends are included to provide comprehensive insights.
+
+## Overview
+Cat breed classification is a challenging task due to the subtle visual differences between breeds. This project employs three popular neural network architectures—**ResNet50**, **DenseNet121**, and **MobileNetV3Small**—to tackle this classification problem. The goal is to analyze their performance, identify areas for improvement, and suggest enhancements.
+
+The selected domain for this project is **Animal subspecies**. The dataset is sourced from the Kaggle repository **'nikolasgegenava/cat-breeds'** (Top 10 classes by image count). The target dataset size is **~5,000 images**, with approximately **200-500 images per class** across ten cat breed classes:
+- Abyssinian
+- Bombay
+- Egyptian Mau
+- Exotic Shorthair
+- Himalayan
+- Maine Coon
+- Russian Blue
+- Scottish Fold
+- Siamese
+- Sphynx
+
+## Contents
+### Attached Files
+`00_full_cat_breed_project_colab.ipynb`: Python notebook consisting of the full project implementation, including dataset downloading, dataset preparation, model training, model evaluation, graph visualization, confusion matrix analysis, and final model comparison.
+
+### Confusion Matrix Analysis
+
+Provides a visual summary of the three models. Highlights key metrics, such as correct classifications and misclassifications. Offers detailed insights into error patterns and potential biases in the model.
+
+### Model Performance Comparison
+
+Compares accuracy, mean average precision (mAP), and training times across the three models. Identifies the best performing model based on these metrics.
+
+### Training Accuracy and Loss Trends
+
+Examines the evolution of training and validation accuracy. Analyzes training and validation loss to understand overfitting or underfitting trends.
+
+## Performance Metrics
+
+The performance metrics are generated in the notebook after training the three models.
+
+The results include:
+
+- ResNet50 accuracy, mAP, and training time
+- DenseNet121 accuracy, mAP, and training time
+- MobileNetV3Small accuracy, mAP, and training time
+- Model comparison table
+- Confusion matrix analysis
+- Training accuracy and loss trends
+
+# Folder Structure
 
 
-## Project Overview
-Course : ISB46703 - Principle of Artificial Intelligence
-Presenters:- 
-1.  Muhammad bin Iskandar (52213224369)
-2.  Myra Jasmeen Daniella Binti Bakar Jamili (52213224398)
-Task Type: Multi-class Image Classification
-Number of Classes: 10 Cat Breeds
-
-
-
-## Dataset Information
-
-### Classes in Dataset (Balanced - 500 images each):
-
-# Breed Name (No. of Images) 
-1 Abyssinian: 500
-2 Bombay: 500
-3 Egyptian Mau: 500
-4 Exotic Shorthair: 500
-5 Himalayan: 500
-6 Maine Coon: 500
-7 Russian Blue: 500
-8 Scottish Fold: 500
-9 Siamese: 500
-10 Sphynx: 500
-
-Total Images: 5,000
-
----
-
-##  Model Performance Comparison
-
-Architecture: 
-Test Accuracy | mAP | Training Time (minutes) |
-DenseNet121: 
-94.8% | 99.0% | 69.60
-ResNet50: 
-95.6% | 98.9% | 71.68
-MobileNetV3Small: 
-17.2% | 12.0% | 9.54
-
-###  Best Model Selection: **ResNet50**
-
-- Highest Test Accuracy (95.6%)
-- High mAP (98.9)
-- Slightly lower mAP than DenseNet121
-- Long training time (Downside)
-
----
-
-## Technical Specifications
-
-### Models Compared:
-
-Model: 
-1. Architecture Type
-2. Key Features
-ResNet50: 
-1. Residual Network
-2. 50 layers, skip connections for gradient flow 
-DenseNet121: 
-1. Densely Connected CNN
-2. 121 layers, feature reuse across layers 
-MobileNetV3Small:
-1. Mobile-Optimized
-2. Lightweight, efficient for edge devices 
-
-### Evaluation Metrics:
-
-- **Test Accuracy**: Percentage of correctly classified images
-- **mAP (mean Average Precision)**: Harmonic mean of precision and recall across all classes
-
----
-
-## Generated Visualizations
-
-### Dataset Graphs:
-1. `class_distribution.png` - Bar chart showing balanced class distribution
-2. `sample_cat_breeds.png` - 50-image grid visualization (1600×2000px)
-
-### Training Graphs:
-- Accuracy curves for all 3 models
-- Loss curves for all 3 models
-
----
-
-## Setup & Installation
-
-```bash
-# Clone repository
-git clone https://github.com/YOUR_USERNAME/cat-breed-classification.git
-
-# Install dependencies
-pip install tensorflow keras matplotlib numpy pillow scikit-learn
-
-# Run the notebook
-jupyter notebook cat_breed_classification.ipynb
+The notebook creates a local project folder structure:
+```text
+notebooks
+└── AI-miniproject-3rd-FINAL
+project_results/
+├── dataset/
+├── models/
+├── raw_dataset/
+└── results/
