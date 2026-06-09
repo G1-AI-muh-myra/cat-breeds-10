@@ -20,7 +20,7 @@ The selected domain for this project is **Animal subspecies**. The dataset is so
 
 ## Contents
 ### Attached Files
-`00_full_cat_breed_project_colab.ipynb`: Python notebook consisting of the full project implementation, including dataset downloading, dataset preparation, model training, model evaluation, graph visualization, confusion matrix analysis, and final model comparison.
+`AI-miniproject-3rd-FINAL.ipynb`: Python notebook consisting of the full project implementation, including dataset downloading, dataset preparation, model training, model evaluation, graph visualization, confusion matrix analysis, and final model comparison.
 
 ### Confusion Matrix Analysis
 
