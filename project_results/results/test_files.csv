@@ -1,0 +1,751 @@
+path,class_name
+project_results\raw_dataset\Bombay\bombay_396.jpg,Bombay
+project_results\raw_dataset\Siamese\siamese_396.jpg,Siamese
+project_results\raw_dataset\Bombay\bombay_55.jpg,Bombay
+project_results\raw_dataset\Himalayan\himalayan_422.jpg,Himalayan
+project_results\raw_dataset\Russian Blue\russianblue_365.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_475.jpg,Egyptian Mau
+project_results\raw_dataset\Russian Blue\russianblue_104.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_30.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_130.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_85.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_339.jpg,Russian Blue
+project_results\raw_dataset\Maine Coon\mainecoon_116.jpg,Maine Coon
+project_results\raw_dataset\Exotic Shorthair\exotic_107.jpg,Exotic Shorthair
+project_results\raw_dataset\Maine Coon\mainecoon_305.jpg,Maine Coon
+project_results\raw_dataset\Bombay\bombay_465.jpg,Bombay
+project_results\raw_dataset\Exotic Shorthair\exotic_437.jpg,Exotic Shorthair
+project_results\raw_dataset\Siamese\siamese_313.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_286.jpg,Siamese
+project_results\raw_dataset\Bombay\bombay_166.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_307.jpg,Bombay
+project_results\raw_dataset\Russian Blue\russianblue_92.jpg,Russian Blue
+project_results\raw_dataset\Siamese\siamese_59.jpg,Siamese
+project_results\raw_dataset\Sphynx\sphynx_424.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_127.jpg,Abyssinian
+project_results\raw_dataset\Bombay\bombay_86.jpg,Bombay
+project_results\raw_dataset\Exotic Shorthair\exotic_110.jpg,Exotic Shorthair
+project_results\raw_dataset\Sphynx\sphynx_331.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_59.jpg,Abyssinian
+project_results\raw_dataset\Sphynx\sphynx_380.jpg,Sphynx
+project_results\raw_dataset\Scottish Fold\scottish_492.jpg,Scottish Fold
+project_results\raw_dataset\Bombay\bombay_12.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_452.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_318.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_414.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_32.jpg,Maine Coon
+project_results\raw_dataset\Himalayan\himalayan_206.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_187.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_353.jpg,Scottish Fold
+project_results\raw_dataset\Himalayan\himalayan_115.jpg,Himalayan
+project_results\raw_dataset\Siamese\siamese_309.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_386.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_101.jpg,Siamese
+project_results\raw_dataset\Exotic Shorthair\exotic_9.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_49.jpg,Scottish Fold
+project_results\raw_dataset\Bombay\bombay_44.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_456.jpg,Sphynx
+project_results\raw_dataset\Himalayan\himalayan_434.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_194.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_69.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_92.jpg,Himalayan
+project_results\raw_dataset\Russian Blue\russianblue_238.jpg,Russian Blue
+project_results\raw_dataset\Bombay\bombay_108.jpg,Bombay
+project_results\raw_dataset\Abyssinian\abys_242.jpg,Abyssinian
+project_results\raw_dataset\Himalayan\himalayan_293.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_62.jpg,Himalayan
+project_results\raw_dataset\Russian Blue\russianblue_162.jpg,Russian Blue
+project_results\raw_dataset\Abyssinian\abys_28.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_213.jpg,Abyssinian
+project_results\raw_dataset\Scottish Fold\scottish_472.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_246.jpg,Scottish Fold
+project_results\raw_dataset\Abyssinian\abys_189.jpg,Abyssinian
+project_results\raw_dataset\Exotic Shorthair\exotic_105.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_141.jpg,Abyssinian
+project_results\raw_dataset\Sphynx\sphynx_20.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_363.jpg,Egyptian Mau
+project_results\raw_dataset\Maine Coon\mainecoon_222.jpg,Maine Coon
+project_results\raw_dataset\Sphynx\sphynx_416.jpg,Sphynx
+project_results\raw_dataset\Bombay\bombay_269.jpg,Bombay
+project_results\raw_dataset\Scottish Fold\scottish_135.jpg,Scottish Fold
+project_results\raw_dataset\Exotic Shorthair\exotic_312.jpg,Exotic Shorthair
+project_results\raw_dataset\Russian Blue\russianblue_29.jpg,Russian Blue
+project_results\raw_dataset\Russian Blue\russianblue_474.jpg,Russian Blue
+project_results\raw_dataset\Abyssinian\abys_301.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_216.jpg,Egyptian Mau
+project_results\raw_dataset\Siamese\siamese_422.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_303.jpg,Maine Coon
+project_results\raw_dataset\Exotic Shorthair\exotic_458.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_129.jpg,Scottish Fold
+project_results\raw_dataset\Himalayan\himalayan_358.jpg,Himalayan
+project_results\raw_dataset\Sphynx\sphynx_427.jpg,Sphynx
+project_results\raw_dataset\Russian Blue\russianblue_151.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_86.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_154.jpg,Himalayan
+project_results\raw_dataset\Maine Coon\mainecoon_29.jpg,Maine Coon
+project_results\raw_dataset\Egyptian Mau\egyptian_446.jpg,Egyptian Mau
+project_results\raw_dataset\Abyssinian\abys_248.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_162.jpg,Abyssinian
+project_results\raw_dataset\Exotic Shorthair\exotic_397.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_68.jpg,Abyssinian
+project_results\raw_dataset\Himalayan\himalayan_122.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_44.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_3.jpg,Scottish Fold
+project_results\raw_dataset\Sphynx\sphynx_493.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_215.jpg,Abyssinian
+project_results\raw_dataset\Siamese\siamese_195.jpg,Siamese
+project_results\raw_dataset\Himalayan\himalayan_175.jpg,Himalayan
+project_results\raw_dataset\Sphynx\sphynx_335.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_178.jpg,Egyptian Mau
+project_results\raw_dataset\Scottish Fold\scottish_416.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_424.jpg,Russian Blue
+project_results\raw_dataset\Exotic Shorthair\exotic_384.jpg,Exotic Shorthair
+project_results\raw_dataset\Egyptian Mau\egyptian_189.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_43.jpg,Himalayan
+project_results\raw_dataset\Scottish Fold\scottish_439.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_189.jpg,Scottish Fold
+project_results\raw_dataset\Egyptian Mau\egyptian_246.jpg,Egyptian Mau
+project_results\raw_dataset\Maine Coon\mainecoon_77.jpg,Maine Coon
+project_results\raw_dataset\Abyssinian\abys_294.jpg,Abyssinian
+project_results\raw_dataset\Maine Coon\mainecoon_133.jpg,Maine Coon
+project_results\raw_dataset\Abyssinian\abys_380.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_444.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_476.jpg,Sphynx
+project_results\raw_dataset\Scottish Fold\scottish_322.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_340.jpg,Russian Blue
+project_results\raw_dataset\Maine Coon\mainecoon_2.jpg,Maine Coon
+project_results\raw_dataset\Himalayan\himalayan_276.jpg,Himalayan
+project_results\raw_dataset\Siamese\siamese_194.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_159.jpg,Siamese
+project_results\raw_dataset\Scottish Fold\scottish_457.jpg,Scottish Fold
+project_results\raw_dataset\Exotic Shorthair\exotic_401.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_394.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_106.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_252.jpg,Egyptian Mau
+project_results\raw_dataset\Abyssinian\abys_362.jpg,Abyssinian
+project_results\raw_dataset\Sphynx\sphynx_282.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_156.jpg,Maine Coon
+project_results\raw_dataset\Abyssinian\abys_22.jpg,Abyssinian
+project_results\raw_dataset\Exotic Shorthair\exotic_92.jpg,Exotic Shorthair
+project_results\raw_dataset\Siamese\siamese_489.jpg,Siamese
+project_results\raw_dataset\Bombay\bombay_47.jpg,Bombay
+project_results\raw_dataset\Scottish Fold\scottish_315.jpg,Scottish Fold
+project_results\raw_dataset\Himalayan\himalayan_499.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_393.jpg,Himalayan
+project_results\raw_dataset\Sphynx\sphynx_363.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_122.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_305.jpg,Egyptian Mau
+project_results\raw_dataset\Scottish Fold\scottish_486.jpg,Scottish Fold
+project_results\raw_dataset\Himalayan\himalayan_486.jpg,Himalayan
+project_results\raw_dataset\Sphynx\sphynx_290.jpg,Sphynx
+project_results\raw_dataset\Scottish Fold\scottish_160.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_178.jpg,Russian Blue
+project_results\raw_dataset\Siamese\siamese_455.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_177.jpg,Siamese
+project_results\raw_dataset\Russian Blue\russianblue_48.jpg,Russian Blue
+project_results\raw_dataset\Abyssinian\abys_335.jpg,Abyssinian
+project_results\raw_dataset\Sphynx\sphynx_265.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_154.jpg,Maine Coon
+project_results\raw_dataset\Sphynx\sphynx_328.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_302.jpg,Egyptian Mau
+project_results\raw_dataset\Bombay\bombay_274.jpg,Bombay
+project_results\raw_dataset\Egyptian Mau\egyptian_69.jpg,Egyptian Mau
+project_results\raw_dataset\Maine Coon\mainecoon_307.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_343.jpg,Russian Blue
+project_results\raw_dataset\Russian Blue\russianblue_19.jpg,Russian Blue
+project_results\raw_dataset\Scottish Fold\scottish_85.jpg,Scottish Fold
+project_results\raw_dataset\Siamese\siamese_6.jpg,Siamese
+project_results\raw_dataset\Himalayan\himalayan_87.jpg,Himalayan
+project_results\raw_dataset\Scottish Fold\scottish_290.jpg,Scottish Fold
+project_results\raw_dataset\Abyssinian\abys_481.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_177.jpg,Abyssinian
+project_results\raw_dataset\Himalayan\himalayan_44.jpg,Himalayan
+project_results\raw_dataset\Scottish Fold\scottish_23.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_57.jpg,Scottish Fold
+project_results\raw_dataset\Maine Coon\mainecoon_50.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_320.jpg,Russian Blue
+project_results\raw_dataset\Scottish Fold\scottish_88.jpg,Scottish Fold
+project_results\raw_dataset\Egyptian Mau\egyptian_228.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_397.jpg,Egyptian Mau
+project_results\raw_dataset\Scottish Fold\scottish_158.jpg,Scottish Fold
+project_results\raw_dataset\Abyssinian\abys_332.jpg,Abyssinian
+project_results\raw_dataset\Bombay\bombay_431.jpg,Bombay
+project_results\raw_dataset\Himalayan\himalayan_371.jpg,Himalayan
+project_results\raw_dataset\Maine Coon\mainecoon_143.jpg,Maine Coon
+project_results\raw_dataset\Exotic Shorthair\exotic_178.jpg,Exotic Shorthair
+project_results\raw_dataset\Bombay\bombay_153.jpg,Bombay
+project_results\raw_dataset\Abyssinian\abys_480.jpg,Abyssinian
+project_results\raw_dataset\Scottish Fold\scottish_455.jpg,Scottish Fold
+project_results\raw_dataset\Himalayan\himalayan_397.jpg,Himalayan
+project_results\raw_dataset\Egyptian Mau\egyptian_388.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_72.jpg,Himalayan
+project_results\raw_dataset\Egyptian Mau\egyptian_289.jpg,Egyptian Mau
+project_results\raw_dataset\Scottish Fold\scottish_377.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_72.jpg,Russian Blue
+project_results\raw_dataset\Russian Blue\russianblue_292.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_489.jpg,Egyptian Mau
+project_results\raw_dataset\Bombay\bombay_241.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_454.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_69.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_354.jpg,Bombay
+project_results\raw_dataset\Exotic Shorthair\exotic_344.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_438.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_171.jpg,Scottish Fold
+project_results\raw_dataset\Bombay\bombay_188.jpg,Bombay
+project_results\raw_dataset\Russian Blue\russianblue_350.jpg,Russian Blue
+project_results\raw_dataset\Sphynx\sphynx_395.jpg,Sphynx
+project_results\raw_dataset\Exotic Shorthair\exotic_88.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_7.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_411.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_470.jpg,Sphynx
+project_results\raw_dataset\Bombay\bombay_192.jpg,Bombay
+project_results\raw_dataset\Scottish Fold\scottish_381.jpg,Scottish Fold
+project_results\raw_dataset\Sphynx\sphynx_377.jpg,Sphynx
+project_results\raw_dataset\Siamese\siamese_387.jpg,Siamese
+project_results\raw_dataset\Egyptian Mau\egyptian_0.jpg,Egyptian Mau
+project_results\raw_dataset\Maine Coon\mainecoon_171.jpg,Maine Coon
+project_results\raw_dataset\Egyptian Mau\egyptian_470.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_221.jpg,Egyptian Mau
+project_results\raw_dataset\Exotic Shorthair\exotic_438.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_18.jpg,Scottish Fold
+project_results\raw_dataset\Sphynx\sphynx_439.jpg,Sphynx
+project_results\raw_dataset\Russian Blue\russianblue_425.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_90.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_8.jpg,Sphynx
+project_results\raw_dataset\Bombay\bombay_497.jpg,Bombay
+project_results\raw_dataset\Russian Blue\russianblue_345.jpg,Russian Blue
+project_results\raw_dataset\Sphynx\sphynx_146.jpg,Sphynx
+project_results\raw_dataset\Exotic Shorthair\exotic_474.jpg,Exotic Shorthair
+project_results\raw_dataset\Egyptian Mau\egyptian_98.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_63.jpg,Sphynx
+project_results\raw_dataset\Scottish Fold\scottish_19.jpg,Scottish Fold
+project_results\raw_dataset\Egyptian Mau\egyptian_101.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_498.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_70.jpg,Himalayan
+project_results\raw_dataset\Maine Coon\mainecoon_86.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_476.jpg,Maine Coon
+project_results\raw_dataset\Sphynx\sphynx_15.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_310.jpg,Abyssinian
+project_results\raw_dataset\Sphynx\sphynx_111.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_480.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_335.jpg,Maine Coon
+project_results\raw_dataset\Egyptian Mau\egyptian_22.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_249.jpg,Sphynx
+project_results\raw_dataset\Sphynx\sphynx_81.jpg,Sphynx
+project_results\raw_dataset\Siamese\siamese_238.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_132.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_61.jpg,Maine Coon
+project_results\raw_dataset\Siamese\siamese_413.jpg,Siamese
+project_results\raw_dataset\Scottish Fold\scottish_210.jpg,Scottish Fold
+project_results\raw_dataset\Sphynx\sphynx_56.jpg,Sphynx
+project_results\raw_dataset\Himalayan\himalayan_61.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_494.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_270.jpg,Himalayan
+project_results\raw_dataset\Egyptian Mau\egyptian_253.jpg,Egyptian Mau
+project_results\raw_dataset\Maine Coon\mainecoon_347.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_330.jpg,Russian Blue
+project_results\raw_dataset\Himalayan\himalayan_346.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_342.jpg,Exotic Shorthair
+project_results\raw_dataset\Bombay\bombay_315.jpg,Bombay
+project_results\raw_dataset\Maine Coon\mainecoon_331.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_382.jpg,Russian Blue
+project_results\raw_dataset\Himalayan\himalayan_88.jpg,Himalayan
+project_results\raw_dataset\Maine Coon\mainecoon_453.jpg,Maine Coon
+project_results\raw_dataset\Abyssinian\abys_447.jpg,Abyssinian
+project_results\raw_dataset\Russian Blue\russianblue_58.jpg,Russian Blue
+project_results\raw_dataset\Sphynx\sphynx_18.jpg,Sphynx
+project_results\raw_dataset\Sphynx\sphynx_186.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_101.jpg,Abyssinian
+project_results\raw_dataset\Himalayan\himalayan_306.jpg,Himalayan
+project_results\raw_dataset\Sphynx\sphynx_315.jpg,Sphynx
+project_results\raw_dataset\Russian Blue\russianblue_126.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_393.jpg,Egyptian Mau
+project_results\raw_dataset\Bombay\bombay_455.jpg,Bombay
+project_results\raw_dataset\Maine Coon\mainecoon_353.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_232.jpg,Russian Blue
+project_results\raw_dataset\Maine Coon\mainecoon_262.jpg,Maine Coon
+project_results\raw_dataset\Exotic Shorthair\exotic_65.jpg,Exotic Shorthair
+project_results\raw_dataset\Sphynx\sphynx_430.jpg,Sphynx
+project_results\raw_dataset\Himalayan\himalayan_163.jpg,Himalayan
+project_results\raw_dataset\Siamese\siamese_168.jpg,Siamese
+project_results\raw_dataset\Sphynx\sphynx_167.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_290.jpg,Abyssinian
+project_results\raw_dataset\Russian Blue\russianblue_333.jpg,Russian Blue
+project_results\raw_dataset\Abyssinian\abys_244.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_35.jpg,Abyssinian
+project_results\raw_dataset\Exotic Shorthair\exotic_331.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_187.jpg,Abyssinian
+project_results\raw_dataset\Russian Blue\russianblue_439.jpg,Russian Blue
+project_results\raw_dataset\Exotic Shorthair\exotic_485.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_51.jpg,Himalayan
+project_results\raw_dataset\Maine Coon\mainecoon_332.jpg,Maine Coon
+project_results\raw_dataset\Bombay\bombay_339.jpg,Bombay
+project_results\raw_dataset\Exotic Shorthair\exotic_31.jpg,Exotic Shorthair
+project_results\raw_dataset\Maine Coon\mainecoon_59.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_353.jpg,Russian Blue
+project_results\raw_dataset\Abyssinian\abys_268.jpg,Abyssinian
+project_results\raw_dataset\Himalayan\himalayan_245.jpg,Himalayan
+project_results\raw_dataset\Bombay\bombay_343.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_311.jpg,Sphynx
+project_results\raw_dataset\Sphynx\sphynx_33.jpg,Sphynx
+project_results\raw_dataset\Russian Blue\russianblue_288.jpg,Russian Blue
+project_results\raw_dataset\Himalayan\himalayan_255.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_230.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_47.jpg,Abyssinian
+project_results\raw_dataset\Exotic Shorthair\exotic_52.jpg,Exotic Shorthair
+project_results\raw_dataset\Siamese\siamese_120.jpg,Siamese
+project_results\raw_dataset\Sphynx\sphynx_481.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_415.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_10.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_140.jpg,Maine Coon
+project_results\raw_dataset\Himalayan\himalayan_303.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_266.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_205.jpg,Himalayan
+project_results\raw_dataset\Bombay\bombay_433.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_405.jpg,Bombay
+project_results\raw_dataset\Himalayan\himalayan_403.jpg,Himalayan
+project_results\raw_dataset\Russian Blue\russianblue_12.jpg,Russian Blue
+project_results\raw_dataset\Scottish Fold\scottish_485.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_424.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_390.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_258.jpg,Russian Blue
+project_results\raw_dataset\Scottish Fold\scottish_35.jpg,Scottish Fold
+project_results\raw_dataset\Siamese\siamese_220.jpg,Siamese
+project_results\raw_dataset\Russian Blue\russianblue_481.jpg,Russian Blue
+project_results\raw_dataset\Bombay\bombay_428.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_43.jpg,Bombay
+project_results\raw_dataset\Egyptian Mau\egyptian_464.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_367.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_399.jpg,Himalayan
+project_results\raw_dataset\Siamese\siamese_495.jpg,Siamese
+project_results\raw_dataset\Himalayan\himalayan_373.jpg,Himalayan
+project_results\raw_dataset\Egyptian Mau\egyptian_493.jpg,Egyptian Mau
+project_results\raw_dataset\Bombay\bombay_395.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_345.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_220.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_404.jpg,Himalayan
+project_results\raw_dataset\Siamese\siamese_237.jpg,Siamese
+project_results\raw_dataset\Sphynx\sphynx_460.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_213.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_444.jpg,Maine Coon
+project_results\raw_dataset\Sphynx\sphynx_12.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_103.jpg,Maine Coon
+project_results\raw_dataset\Scottish Fold\scottish_447.jpg,Scottish Fold
+project_results\raw_dataset\Siamese\siamese_324.jpg,Siamese
+project_results\raw_dataset\Abyssinian\abys_147.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_50.jpg,Abyssinian
+project_results\raw_dataset\Siamese\siamese_62.jpg,Siamese
+project_results\raw_dataset\Russian Blue\russianblue_194.jpg,Russian Blue
+project_results\raw_dataset\Siamese\siamese_175.jpg,Siamese
+project_results\raw_dataset\Abyssinian\abys_317.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_384.jpg,Egyptian Mau
+project_results\raw_dataset\Siamese\siamese_375.jpg,Siamese
+project_results\raw_dataset\Abyssinian\abys_178.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_274.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_238.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_487.jpg,Exotic Shorthair
+project_results\raw_dataset\Exotic Shorthair\exotic_291.jpg,Exotic Shorthair
+project_results\raw_dataset\Egyptian Mau\egyptian_402.jpg,Egyptian Mau
+project_results\raw_dataset\Scottish Fold\scottish_207.jpg,Scottish Fold
+project_results\raw_dataset\Abyssinian\abys_358.jpg,Abyssinian
+project_results\raw_dataset\Russian Blue\russianblue_76.jpg,Russian Blue
+project_results\raw_dataset\Maine Coon\mainecoon_245.jpg,Maine Coon
+project_results\raw_dataset\Scottish Fold\scottish_115.jpg,Scottish Fold
+project_results\raw_dataset\Bombay\bombay_492.jpg,Bombay
+project_results\raw_dataset\Siamese\siamese_21.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_354.jpg,Siamese
+project_results\raw_dataset\Russian Blue\russianblue_352.jpg,Russian Blue
+project_results\raw_dataset\Himalayan\himalayan_273.jpg,Himalayan
+project_results\raw_dataset\Abyssinian\abys_5.jpg,Abyssinian
+project_results\raw_dataset\Russian Blue\russianblue_336.jpg,Russian Blue
+project_results\raw_dataset\Exotic Shorthair\exotic_235.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_142.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_291.jpg,Abyssinian
+project_results\raw_dataset\Bombay\bombay_417.jpg,Bombay
+project_results\raw_dataset\Abyssinian\abys_1.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_153.jpg,Egyptian Mau
+project_results\raw_dataset\Siamese\siamese_10.jpg,Siamese
+project_results\raw_dataset\Abyssinian\abys_374.jpg,Abyssinian
+project_results\raw_dataset\Himalayan\himalayan_299.jpg,Himalayan
+project_results\raw_dataset\Bombay\bombay_470.jpg,Bombay
+project_results\raw_dataset\Exotic Shorthair\exotic_34.jpg,Exotic Shorthair
+project_results\raw_dataset\Maine Coon\mainecoon_75.jpg,Maine Coon
+project_results\raw_dataset\Scottish Fold\scottish_243.jpg,Scottish Fold
+project_results\raw_dataset\Bombay\bombay_245.jpg,Bombay
+project_results\raw_dataset\Abyssinian\abys_87.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_439.jpg,Egyptian Mau
+project_results\raw_dataset\Siamese\siamese_405.jpg,Siamese
+project_results\raw_dataset\Scottish Fold\scottish_253.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_98.jpg,Russian Blue
+project_results\raw_dataset\Himalayan\himalayan_17.jpg,Himalayan
+project_results\raw_dataset\Russian Blue\russianblue_135.jpg,Russian Blue
+project_results\raw_dataset\Siamese\siamese_137.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_96.jpg,Maine Coon
+project_results\raw_dataset\Sphynx\sphynx_103.jpg,Sphynx
+project_results\raw_dataset\Russian Blue\russianblue_189.jpg,Russian Blue
+project_results\raw_dataset\Russian Blue\russianblue_166.jpg,Russian Blue
+project_results\raw_dataset\Sphynx\sphynx_92.jpg,Sphynx
+project_results\raw_dataset\Scottish Fold\scottish_228.jpg,Scottish Fold
+project_results\raw_dataset\Abyssinian\abys_413.jpg,Abyssinian
+project_results\raw_dataset\Bombay\bombay_149.jpg,Bombay
+project_results\raw_dataset\Egyptian Mau\egyptian_376.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_337.jpg,Himalayan
+project_results\raw_dataset\Russian Blue\russianblue_245.jpg,Russian Blue
+project_results\raw_dataset\Bombay\bombay_349.jpg,Bombay
+project_results\raw_dataset\Exotic Shorthair\exotic_229.jpg,Exotic Shorthair
+project_results\raw_dataset\Siamese\siamese_236.jpg,Siamese
+project_results\raw_dataset\Exotic Shorthair\exotic_133.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_362.jpg,Himalayan
+project_results\raw_dataset\Bombay\bombay_20.jpg,Bombay
+project_results\raw_dataset\Exotic Shorthair\exotic_56.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_154.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_129.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_46.jpg,Abyssinian
+project_results\raw_dataset\Bombay\bombay_484.jpg,Bombay
+project_results\raw_dataset\Egyptian Mau\egyptian_97.jpg,Egyptian Mau
+project_results\raw_dataset\Abyssinian\abys_490.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_36.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_369.jpg,Himalayan
+project_results\raw_dataset\Egyptian Mau\egyptian_182.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_310.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_267.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_305.jpg,Abyssinian
+project_results\raw_dataset\Bombay\bombay_100.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_475.jpg,Sphynx
+project_results\raw_dataset\Siamese\siamese_139.jpg,Siamese
+project_results\raw_dataset\Abyssinian\abys_188.jpg,Abyssinian
+project_results\raw_dataset\Exotic Shorthair\exotic_262.jpg,Exotic Shorthair
+project_results\raw_dataset\Russian Blue\russianblue_380.jpg,Russian Blue
+project_results\raw_dataset\Scottish Fold\scottish_279.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_97.jpg,Russian Blue
+project_results\raw_dataset\Sphynx\sphynx_436.jpg,Sphynx
+project_results\raw_dataset\Exotic Shorthair\exotic_330.jpg,Exotic Shorthair
+project_results\raw_dataset\Sphynx\sphynx_469.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_329.jpg,Abyssinian
+project_results\raw_dataset\Siamese\siamese_37.jpg,Siamese
+project_results\raw_dataset\Exotic Shorthair\exotic_94.jpg,Exotic Shorthair
+project_results\raw_dataset\Bombay\bombay_181.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_250.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_320.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_75.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_357.jpg,Egyptian Mau
+project_results\raw_dataset\Exotic Shorthair\exotic_224.jpg,Exotic Shorthair
+project_results\raw_dataset\Egyptian Mau\egyptian_223.jpg,Egyptian Mau
+project_results\raw_dataset\Bombay\bombay_436.jpg,Bombay
+project_results\raw_dataset\Siamese\siamese_224.jpg,Siamese
+project_results\raw_dataset\Sphynx\sphynx_353.jpg,Sphynx
+project_results\raw_dataset\Himalayan\himalayan_9.jpg,Himalayan
+project_results\raw_dataset\Sphynx\sphynx_289.jpg,Sphynx
+project_results\raw_dataset\Bombay\bombay_422.jpg,Bombay
+project_results\raw_dataset\Maine Coon\mainecoon_221.jpg,Maine Coon
+project_results\raw_dataset\Scottish Fold\scottish_87.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_390.jpg,Russian Blue
+project_results\raw_dataset\Abyssinian\abys_382.jpg,Abyssinian
+project_results\raw_dataset\Maine Coon\mainecoon_230.jpg,Maine Coon
+project_results\raw_dataset\Exotic Shorthair\exotic_258.jpg,Exotic Shorthair
+project_results\raw_dataset\Exotic Shorthair\exotic_264.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_386.jpg,Abyssinian
+project_results\raw_dataset\Scottish Fold\scottish_454.jpg,Scottish Fold
+project_results\raw_dataset\Egyptian Mau\egyptian_441.jpg,Egyptian Mau
+project_results\raw_dataset\Abyssinian\abys_270.jpg,Abyssinian
+project_results\raw_dataset\Bombay\bombay_173.jpg,Bombay
+project_results\raw_dataset\Scottish Fold\scottish_112.jpg,Scottish Fold
+project_results\raw_dataset\Maine Coon\mainecoon_47.jpg,Maine Coon
+project_results\raw_dataset\Bombay\bombay_259.jpg,Bombay
+project_results\raw_dataset\Egyptian Mau\egyptian_183.jpg,Egyptian Mau
+project_results\raw_dataset\Scottish Fold\scottish_16.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_164.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_29.jpg,Egyptian Mau
+project_results\raw_dataset\Scottish Fold\scottish_124.jpg,Scottish Fold
+project_results\raw_dataset\Maine Coon\mainecoon_315.jpg,Maine Coon
+project_results\raw_dataset\Exotic Shorthair\exotic_223.jpg,Exotic Shorthair
+project_results\raw_dataset\Sphynx\sphynx_211.jpg,Sphynx
+project_results\raw_dataset\Siamese\siamese_331.jpg,Siamese
+project_results\raw_dataset\Himalayan\himalayan_370.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_76.jpg,Himalayan
+project_results\raw_dataset\Egyptian Mau\egyptian_486.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_367.jpg,Sphynx
+project_results\raw_dataset\Scottish Fold\scottish_354.jpg,Scottish Fold
+project_results\raw_dataset\Maine Coon\mainecoon_468.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_278.jpg,Maine Coon
+project_results\raw_dataset\Exotic Shorthair\exotic_420.jpg,Exotic Shorthair
+project_results\raw_dataset\Exotic Shorthair\exotic_427.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_426.jpg,Scottish Fold
+project_results\raw_dataset\Abyssinian\abys_82.jpg,Abyssinian
+project_results\raw_dataset\Exotic Shorthair\exotic_208.jpg,Exotic Shorthair
+project_results\raw_dataset\Siamese\siamese_25.jpg,Siamese
+project_results\raw_dataset\Russian Blue\russianblue_294.jpg,Russian Blue
+project_results\raw_dataset\Exotic Shorthair\exotic_433.jpg,Exotic Shorthair
+project_results\raw_dataset\Siamese\siamese_153.jpg,Siamese
+project_results\raw_dataset\Himalayan\himalayan_414.jpg,Himalayan
+project_results\raw_dataset\Egyptian Mau\egyptian_445.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_131.jpg,Egyptian Mau
+project_results\raw_dataset\Exotic Shorthair\exotic_466.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_500.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_277.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_179.jpg,Himalayan
+project_results\raw_dataset\Bombay\bombay_130.jpg,Bombay
+project_results\raw_dataset\Siamese\siamese_402.jpg,Siamese
+project_results\raw_dataset\Sphynx\sphynx_467.jpg,Sphynx
+project_results\raw_dataset\Siamese\siamese_423.jpg,Siamese
+project_results\raw_dataset\Himalayan\himalayan_491.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_372.jpg,Exotic Shorthair
+project_results\raw_dataset\Siamese\siamese_144.jpg,Siamese
+project_results\raw_dataset\Bombay\bombay_156.jpg,Bombay
+project_results\raw_dataset\Maine Coon\mainecoon_144.jpg,Maine Coon
+project_results\raw_dataset\Egyptian Mau\egyptian_326.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_394.jpg,Egyptian Mau
+project_results\raw_dataset\Scottish Fold\scottish_318.jpg,Scottish Fold
+project_results\raw_dataset\Bombay\bombay_483.jpg,Bombay
+project_results\raw_dataset\Himalayan\himalayan_375.jpg,Himalayan
+project_results\raw_dataset\Siamese\siamese_170.jpg,Siamese
+project_results\raw_dataset\Exotic Shorthair\exotic_242.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_27.jpg,Abyssinian
+project_results\raw_dataset\Russian Blue\russianblue_299.jpg,Russian Blue
+project_results\raw_dataset\Maine Coon\mainecoon_109.jpg,Maine Coon
+project_results\raw_dataset\Siamese\siamese_444.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_106.jpg,Maine Coon
+project_results\raw_dataset\Siamese\siamese_299.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_180.jpg,Maine Coon
+project_results\raw_dataset\Himalayan\himalayan_195.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_292.jpg,Exotic Shorthair
+project_results\raw_dataset\Bombay\bombay_249.jpg,Bombay
+project_results\raw_dataset\Egyptian Mau\egyptian_387.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_408.jpg,Himalayan
+project_results\raw_dataset\Egyptian Mau\egyptian_218.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_137.jpg,Himalayan
+project_results\raw_dataset\Bombay\bombay_234.jpg,Bombay
+project_results\raw_dataset\Himalayan\himalayan_281.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_233.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_181.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_123.jpg,Exotic Shorthair
+project_results\raw_dataset\Maine Coon\mainecoon_319.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_133.jpg,Russian Blue
+project_results\raw_dataset\Russian Blue\russianblue_201.jpg,Russian Blue
+project_results\raw_dataset\Maine Coon\mainecoon_16.jpg,Maine Coon
+project_results\raw_dataset\Egyptian Mau\egyptian_39.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_148.jpg,Sphynx
+project_results\raw_dataset\Scottish Fold\scottish_222.jpg,Scottish Fold
+project_results\raw_dataset\Exotic Shorthair\exotic_378.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_353.jpg,Himalayan
+project_results\raw_dataset\Siamese\siamese_255.jpg,Siamese
+project_results\raw_dataset\Exotic Shorthair\exotic_450.jpg,Exotic Shorthair
+project_results\raw_dataset\Bombay\bombay_353.jpg,Bombay
+project_results\raw_dataset\Scottish Fold\scottish_263.jpg,Scottish Fold
+project_results\raw_dataset\Siamese\siamese_362.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_196.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_253.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_199.jpg,Maine Coon
+project_results\raw_dataset\Siamese\siamese_18.jpg,Siamese
+project_results\raw_dataset\Scottish Fold\scottish_405.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_269.jpg,Russian Blue
+project_results\raw_dataset\Sphynx\sphynx_401.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_267.jpg,Abyssinian
+project_results\raw_dataset\Siamese\siamese_378.jpg,Siamese
+project_results\raw_dataset\Bombay\bombay_109.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_90.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_297.jpg,Maine Coon
+project_results\raw_dataset\Siamese\siamese_152.jpg,Siamese
+project_results\raw_dataset\Scottish Fold\scottish_270.jpg,Scottish Fold
+project_results\raw_dataset\Sphynx\sphynx_219.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_214.jpg,Egyptian Mau
+project_results\raw_dataset\Exotic Shorthair\exotic_436.jpg,Exotic Shorthair
+project_results\raw_dataset\Exotic Shorthair\exotic_192.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_319.jpg,Scottish Fold
+project_results\raw_dataset\Abyssinian\abys_80.jpg,Abyssinian
+project_results\raw_dataset\Bombay\bombay_293.jpg,Bombay
+project_results\raw_dataset\Abyssinian\abys_408.jpg,Abyssinian
+project_results\raw_dataset\Siamese\siamese_411.jpg,Siamese
+project_results\raw_dataset\Bombay\bombay_189.jpg,Bombay
+project_results\raw_dataset\Maine Coon\mainecoon_394.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_296.jpg,Maine Coon
+project_results\raw_dataset\Bombay\bombay_476.jpg,Bombay
+project_results\raw_dataset\Abyssinian\abys_425.jpg,Abyssinian
+project_results\raw_dataset\Egyptian Mau\egyptian_9.jpg,Egyptian Mau
+project_results\raw_dataset\Bombay\bombay_105.jpg,Bombay
+project_results\raw_dataset\Maine Coon\mainecoon_198.jpg,Maine Coon
+project_results\raw_dataset\Scottish Fold\scottish_343.jpg,Scottish Fold
+project_results\raw_dataset\Abyssinian\abys_361.jpg,Abyssinian
+project_results\raw_dataset\Scottish Fold\scottish_143.jpg,Scottish Fold
+project_results\raw_dataset\Siamese\siamese_42.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_478.jpg,Siamese
+project_results\raw_dataset\Exotic Shorthair\exotic_257.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_159.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_202.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_406.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_338.jpg,Scottish Fold
+project_results\raw_dataset\Himalayan\himalayan_259.jpg,Himalayan
+project_results\raw_dataset\Maine Coon\mainecoon_479.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_248.jpg,Russian Blue
+project_results\raw_dataset\Russian Blue\russianblue_426.jpg,Russian Blue
+project_results\raw_dataset\Siamese\siamese_287.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_28.jpg,Siamese
+project_results\raw_dataset\Himalayan\himalayan_7.jpg,Himalayan
+project_results\raw_dataset\Scottish Fold\scottish_180.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_477.jpg,Russian Blue
+project_results\raw_dataset\Exotic Shorthair\exotic_111.jpg,Exotic Shorthair
+project_results\raw_dataset\Egyptian Mau\egyptian_343.jpg,Egyptian Mau
+project_results\raw_dataset\Abyssinian\abys_219.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_6.jpg,Abyssinian
+project_results\raw_dataset\Maine Coon\mainecoon_65.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_120.jpg,Russian Blue
+project_results\raw_dataset\Scottish Fold\scottish_459.jpg,Scottish Fold
+project_results\raw_dataset\Exotic Shorthair\exotic_425.jpg,Exotic Shorthair
+project_results\raw_dataset\Sphynx\sphynx_232.jpg,Sphynx
+project_results\raw_dataset\Siamese\siamese_179.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_432.jpg,Maine Coon
+project_results\raw_dataset\Egyptian Mau\egyptian_76.jpg,Egyptian Mau
+project_results\raw_dataset\Russian Blue\russianblue_301.jpg,Russian Blue
+project_results\raw_dataset\Scottish Fold\scottish_407.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_50.jpg,Russian Blue
+project_results\raw_dataset\Sphynx\sphynx_222.jpg,Sphynx
+project_results\raw_dataset\Sphynx\sphynx_254.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_330.jpg,Egyptian Mau
+project_results\raw_dataset\Russian Blue\russianblue_14.jpg,Russian Blue
+project_results\raw_dataset\Siamese\siamese_277.jpg,Siamese
+project_results\raw_dataset\Scottish Fold\scottish_324.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_473.jpg,Russian Blue
+project_results\raw_dataset\Abyssinian\abys_61.jpg,Abyssinian
+project_results\raw_dataset\Exotic Shorthair\exotic_250.jpg,Exotic Shorthair
+project_results\raw_dataset\Maine Coon\mainecoon_192.jpg,Maine Coon
+project_results\raw_dataset\Bombay\bombay_48.jpg,Bombay
+project_results\raw_dataset\Maine Coon\mainecoon_351.jpg,Maine Coon
+project_results\raw_dataset\Egyptian Mau\egyptian_453.jpg,Egyptian Mau
+project_results\raw_dataset\Maine Coon\mainecoon_306.jpg,Maine Coon
+project_results\raw_dataset\Himalayan\himalayan_489.jpg,Himalayan
+project_results\raw_dataset\Sphynx\sphynx_39.jpg,Sphynx
+project_results\raw_dataset\Scottish Fold\scottish_376.jpg,Scottish Fold
+project_results\raw_dataset\Siamese\siamese_266.jpg,Siamese
+project_results\raw_dataset\Exotic Shorthair\exotic_377.jpg,Exotic Shorthair
+project_results\raw_dataset\Siamese\siamese_102.jpg,Siamese
+project_results\raw_dataset\Sphynx\sphynx_266.jpg,Sphynx
+project_results\raw_dataset\Bombay\bombay_329.jpg,Bombay
+project_results\raw_dataset\Exotic Shorthair\exotic_287.jpg,Exotic Shorthair
+project_results\raw_dataset\Russian Blue\russianblue_180.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_370.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_463.jpg,Egyptian Mau
+project_results\raw_dataset\Himalayan\himalayan_351.jpg,Himalayan
+project_results\raw_dataset\Sphynx\sphynx_497.jpg,Sphynx
+project_results\raw_dataset\Bombay\bombay_136.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_419.jpg,Bombay
+project_results\raw_dataset\Russian Blue\russianblue_26.jpg,Russian Blue
+project_results\raw_dataset\Russian Blue\russianblue_212.jpg,Russian Blue
+project_results\raw_dataset\Abyssinian\abys_117.jpg,Abyssinian
+project_results\raw_dataset\Sphynx\sphynx_51.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_427.jpg,Maine Coon
+project_results\raw_dataset\Himalayan\himalayan_390.jpg,Himalayan
+project_results\raw_dataset\Siamese\siamese_320.jpg,Siamese
+project_results\raw_dataset\Sphynx\sphynx_245.jpg,Sphynx
+project_results\raw_dataset\Exotic Shorthair\exotic_37.jpg,Exotic Shorthair
+project_results\raw_dataset\Russian Blue\russianblue_37.jpg,Russian Blue
+project_results\raw_dataset\Abyssinian\abys_116.jpg,Abyssinian
+project_results\raw_dataset\Sphynx\sphynx_489.jpg,Sphynx
+project_results\raw_dataset\Exotic Shorthair\exotic_361.jpg,Exotic Shorthair
+project_results\raw_dataset\Abyssinian\abys_255.jpg,Abyssinian
+project_results\raw_dataset\Maine Coon\mainecoon_175.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_169.jpg,Maine Coon
+project_results\raw_dataset\Scottish Fold\scottish_77.jpg,Scottish Fold
+project_results\raw_dataset\Scottish Fold\scottish_43.jpg,Scottish Fold
+project_results\raw_dataset\Bombay\bombay_184.jpg,Bombay
+project_results\raw_dataset\Siamese\siamese_427.jpg,Siamese
+project_results\raw_dataset\Bombay\bombay_429.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_233.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_345.jpg,Egyptian Mau
+project_results\raw_dataset\Scottish Fold\scottish_187.jpg,Scottish Fold
+project_results\raw_dataset\Bombay\bombay_183.jpg,Bombay
+project_results\raw_dataset\Siamese\siamese_107.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_22.jpg,Maine Coon
+project_results\raw_dataset\Russian Blue\russianblue_451.jpg,Russian Blue
+project_results\raw_dataset\Bombay\bombay_103.jpg,Bombay
+project_results\raw_dataset\Siamese\siamese_242.jpg,Siamese
+project_results\raw_dataset\Abyssinian\abys_194.jpg,Abyssinian
+project_results\raw_dataset\Russian Blue\russianblue_196.jpg,Russian Blue
+project_results\raw_dataset\Maine Coon\mainecoon_448.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_94.jpg,Maine Coon
+project_results\raw_dataset\Exotic Shorthair\exotic_90.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_332.jpg,Himalayan
+project_results\raw_dataset\Bombay\bombay_207.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_262.jpg,Bombay
+project_results\raw_dataset\Egyptian Mau\egyptian_203.jpg,Egyptian Mau
+project_results\raw_dataset\Exotic Shorthair\exotic_32.jpg,Exotic Shorthair
+project_results\raw_dataset\Exotic Shorthair\exotic_273.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_344.jpg,Scottish Fold
+project_results\raw_dataset\Exotic Shorthair\exotic_42.jpg,Exotic Shorthair
+project_results\raw_dataset\Egyptian Mau\egyptian_399.jpg,Egyptian Mau
+project_results\raw_dataset\Sphynx\sphynx_472.jpg,Sphynx
+project_results\raw_dataset\Bombay\bombay_129.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_378.jpg,Sphynx
+project_results\raw_dataset\Siamese\siamese_13.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_478.jpg,Maine Coon
+project_results\raw_dataset\Maine Coon\mainecoon_343.jpg,Maine Coon
+project_results\raw_dataset\Abyssinian\abys_193.jpg,Abyssinian
+project_results\raw_dataset\Scottish Fold\scottish_436.jpg,Scottish Fold
+project_results\raw_dataset\Abyssinian\abys_461.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_96.jpg,Abyssinian
+project_results\raw_dataset\Bombay\bombay_45.jpg,Bombay
+project_results\raw_dataset\Russian Blue\russianblue_275.jpg,Russian Blue
+project_results\raw_dataset\Sphynx\sphynx_152.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_85.jpg,Egyptian Mau
+project_results\raw_dataset\Egyptian Mau\egyptian_135.jpg,Egyptian Mau
+project_results\raw_dataset\Maine Coon\mainecoon_176.jpg,Maine Coon
+project_results\raw_dataset\Scottish Fold\scottish_2.jpg,Scottish Fold
+project_results\raw_dataset\Sphynx\sphynx_172.jpg,Sphynx
+project_results\raw_dataset\Abyssinian\abys_403.jpg,Abyssinian
+project_results\raw_dataset\Scottish Fold\scottish_478.jpg,Scottish Fold
+project_results\raw_dataset\Exotic Shorthair\exotic_228.jpg,Exotic Shorthair
+project_results\raw_dataset\Sphynx\sphynx_410.jpg,Sphynx
+project_results\raw_dataset\Russian Blue\russianblue_159.jpg,Russian Blue
+project_results\raw_dataset\Exotic Shorthair\exotic_441.jpg,Exotic Shorthair
+project_results\raw_dataset\Bombay\bombay_403.jpg,Bombay
+project_results\raw_dataset\Himalayan\himalayan_48.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_435.jpg,Himalayan
+project_results\raw_dataset\Bombay\bombay_82.jpg,Bombay
+project_results\raw_dataset\Sphynx\sphynx_304.jpg,Sphynx
+project_results\raw_dataset\Maine Coon\mainecoon_104.jpg,Maine Coon
+project_results\raw_dataset\Exotic Shorthair\exotic_457.jpg,Exotic Shorthair
+project_results\raw_dataset\Himalayan\himalayan_25.jpg,Himalayan
+project_results\raw_dataset\Russian Blue\russianblue_268.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_467.jpg,Egyptian Mau
+project_results\raw_dataset\Siamese\siamese_19.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_141.jpg,Maine Coon
+project_results\raw_dataset\Sphynx\sphynx_131.jpg,Sphynx
+project_results\raw_dataset\Egyptian Mau\egyptian_303.jpg,Egyptian Mau
+project_results\raw_dataset\Maine Coon\mainecoon_290.jpg,Maine Coon
+project_results\raw_dataset\Himalayan\himalayan_430.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_22.jpg,Himalayan
+project_results\raw_dataset\Scottish Fold\scottish_80.jpg,Scottish Fold
+project_results\raw_dataset\Bombay\bombay_224.jpg,Bombay
+project_results\raw_dataset\Siamese\siamese_327.jpg,Siamese
+project_results\raw_dataset\Russian Blue\russianblue_449.jpg,Russian Blue
+project_results\raw_dataset\Siamese\siamese_189.jpg,Siamese
+project_results\raw_dataset\Russian Blue\russianblue_306.jpg,Russian Blue
+project_results\raw_dataset\Russian Blue\russianblue_432.jpg,Russian Blue
+project_results\raw_dataset\Scottish Fold\scottish_375.jpg,Scottish Fold
+project_results\raw_dataset\Russian Blue\russianblue_220.jpg,Russian Blue
+project_results\raw_dataset\Egyptian Mau\egyptian_198.jpg,Egyptian Mau
+project_results\raw_dataset\Russian Blue\russianblue_415.jpg,Russian Blue
+project_results\raw_dataset\Maine Coon\mainecoon_260.jpg,Maine Coon
+project_results\raw_dataset\Bombay\bombay_265.jpg,Bombay
+project_results\raw_dataset\Bombay\bombay_144.jpg,Bombay
+project_results\raw_dataset\Exotic Shorthair\exotic_276.jpg,Exotic Shorthair
+project_results\raw_dataset\Sphynx\sphynx_258.jpg,Sphynx
+project_results\raw_dataset\Himalayan\himalayan_294.jpg,Himalayan
+project_results\raw_dataset\Himalayan\himalayan_108.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_470.jpg,Exotic Shorthair
+project_results\raw_dataset\Russian Blue\russianblue_78.jpg,Russian Blue
+project_results\raw_dataset\Siamese\siamese_164.jpg,Siamese
+project_results\raw_dataset\Bombay\bombay_283.jpg,Bombay
+project_results\raw_dataset\Siamese\siamese_343.jpg,Siamese
+project_results\raw_dataset\Himalayan\himalayan_378.jpg,Himalayan
+project_results\raw_dataset\Exotic Shorthair\exotic_394.jpg,Exotic Shorthair
+project_results\raw_dataset\Exotic Shorthair\exotic_419.jpg,Exotic Shorthair
+project_results\raw_dataset\Scottish Fold\scottish_191.jpg,Scottish Fold
+project_results\raw_dataset\Siamese\siamese_12.jpg,Siamese
+project_results\raw_dataset\Russian Blue\russianblue_15.jpg,Russian Blue
+project_results\raw_dataset\Siamese\siamese_97.jpg,Siamese
+project_results\raw_dataset\Maine Coon\mainecoon_189.jpg,Maine Coon
+project_results\raw_dataset\Siamese\siamese_486.jpg,Siamese
+project_results\raw_dataset\Abyssinian\abys_74.jpg,Abyssinian
+project_results\raw_dataset\Abyssinian\abys_65.jpg,Abyssinian
+project_results\raw_dataset\Siamese\siamese_77.jpg,Siamese
+project_results\raw_dataset\Siamese\siamese_452.jpg,Siamese

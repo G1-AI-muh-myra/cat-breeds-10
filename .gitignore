@@ -1,0 +1,18 @@
+# Datasets
+project_results/dataset/
+project_results/raw_dataset/
+notebooks/project_results/dataset/
+notebooks/project_results/raw_dataset/
+notebooks/AI-miniproject-1st.ipynb/
+notebooks/AI-miniproject-2nd.ipynb/
+
+# Model files
+*.h5
+*.keras
+*.pb
+
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/

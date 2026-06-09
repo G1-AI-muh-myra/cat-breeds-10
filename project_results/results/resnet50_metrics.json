@@ -1,0 +1,27 @@
+{
+  "model": "ResNet50",
+  "dataset": "Kaggle cat-breeds dataset - Top 10 classes",
+  "classes": [
+    "Abyssinian",
+    "Bombay",
+    "Egyptian Mau",
+    "Exotic Shorthair",
+    "Himalayan",
+    "Maine Coon",
+    "Russian Blue",
+    "Scottish Fold",
+    "Siamese",
+    "Sphynx"
+  ],
+  "epochs_requested": 50,
+  "epochs_completed": 50,
+  "test_loss": 0.13264979422092438,
+  "test_accuracy": 0.9559999704360962,
+  "test_accuracy_from_predictions": 0.956,
+  "mean_average_precision_macro": 0.9902044129387763,
+  "training_time_seconds": 4301.013688325882,
+  "training_time_minutes": 71.68356147209803,
+  "total_params": 23608202,
+  "trainable_params": 20490,
+  "non_trainable_params": 23587712
+}
