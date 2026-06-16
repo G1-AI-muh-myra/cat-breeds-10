@@ -1,0 +1,27 @@
+{
+  "model": "MobileNetV3Small",
+  "dataset": "Kaggle cat-breeds dataset - Top 10 classes",
+  "classes": [
+    "Abyssinian",
+    "Bombay",
+    "Egyptian Mau",
+    "Exotic Shorthair",
+    "Himalayan",
+    "Maine Coon",
+    "Russian Blue",
+    "Scottish Fold",
+    "Siamese",
+    "Sphynx"
+  ],
+  "epochs_requested": 50,
+  "epochs_completed": 50,
+  "test_loss": 0.324480265378952,
+  "test_accuracy": 0.9106666445732117,
+  "test_accuracy_from_predictions": 0.9106666666666666,
+  "mean_average_precision_macro": 0.958482856941395,
+  "training_time_seconds": 594.1380925178528,
+  "training_time_minutes": 9.902301541964214,
+  "total_params": 944890,
+  "trainable_params": 5770,
+  "non_trainable_params": 939120
+}
